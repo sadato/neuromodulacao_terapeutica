@@ -23,7 +23,5 @@ Novas técnicas não farmacológicas de terapia dos distúrbios neuropsiquiátri
 
 ---
 
-Fonte:
 
-[git/github](http://kbroman.org/github_tutorial)
 
