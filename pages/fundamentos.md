@@ -4,7 +4,6 @@ title: Como publicar um trabalho científico
 description:Como publicar um trabalho científico.
 ---
 
-# ==Conteúdo==
 
 1. Pré-requisitos
 * qualidades do trabalho
