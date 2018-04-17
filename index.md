@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Neuromodulação Terapêutica
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
+description: Um Tutorial sobre Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
 ---
 
-[Github Pages](https://pages.github.com) Neuromodulação Terapêutica
+Neuromodulação Terapêutica
 
 Novas técnicas não farmacológicas de terapia dos distúrbios neuropsiquiátricos surgiram recentemente.
 
 
-[GitHub Pages](https://pages.github.com), too.
+
 
 
 
