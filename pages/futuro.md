@@ -39,16 +39,16 @@ Devido à portabilidade da ETCC, alguns estudos-piloto já estão sendo feitos c
 + d. "a" e "c" estão corretas.
 
 2. A ETCC:
-+a. Tem a vantagem de ser portátil;
-+b. É perigosa pois usa correntes elétricas intensas;
-+c. Não é aplicada em sessões, como a EMTr;
-+d. Pode ser feita com o mesmo equipamento da EMTr.
++ a. Tem a vantagem de ser portátil;
++ b. É perigosa pois usa correntes elétricas intensas;
++ c. Não é aplicada em sessões, como a EMTr;
++ d. Pode ser feita com o mesmo equipamento da EMTr.
 
 3. Um equipamento de EMT portátil que dispara um único pulso magnético está sendo testado em:
-+a. Depressão;
-+b. Transtorno Obsessivo-compulsivo;
-+c. Esquizofrenia;
-+d. Enxaqueca.
++ a. Depressão;
++ b. Transtorno Obsessivo-compulsivo;
++ c. Esquizofrenia;
++ d. Enxaqueca.
 
 
 
