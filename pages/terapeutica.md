@@ -29,22 +29,22 @@ A vasta bibliografia já acumulada levou à aprovação da EMTr para o tratament
 # Questões:
 
 1. Podemos dizer que a EMT :
-a. Aplicada em pulsos únicos ou repetidos não apresenta pós-efeitos sobre a excitabilidade cortical;
-b. Pode excitar ou inibir áreas do córtex cerebral;
-c. Os efeitos podem perdurar após o término da sessão de estimulação;
-d. "b" e "c" estão corretas.
++ a. Aplicada em pulsos únicos ou repetidos não apresenta pós-efeitos sobre a excitabilidade cortical;
++ b. Pode excitar ou inibir áreas do córtex cerebral;
++ c. Os efeitos podem perdurar após o término da sessão de estimulação;
++ d. "b" e "c" estão corretas.
 
 2. A EMTr como terapia:
-a. Foi tentada primeiramente na depressão fármaco-resistente;
-b. Foi aprovada pela FDA americana para tratamento da depressão;
-c. Ainda não tem aprovação do Conselho Federal de Medicina;
-d. "a" e "b" estão corretas.
++ a. Foi tentada primeiramente na depressão fármaco-resistente;
++ b. Foi aprovada pela FDA americana para tratamento da depressão;
++ c. Ainda não tem aprovação do Conselho Federal de Medicina;
++ d. "a" e "b" estão corretas.
 
 3. Sobre a EMTr terapêutica, todas estão corretas, exceto:
-a. Ainda não tem nenhuma comprovação científica;
-b. Pode ser usada para aumentar ou reduzir a excitabilidade cortical;
-c. Tem potenciais aplicações em diversos transtornos neuropsiquiátricos;
-d. Foi primeiramente descrita por Pascual-Leone em 1996.
++ a. Ainda não tem nenhuma comprovação científica;
++ b. Pode ser usada para aumentar ou reduzir a excitabilidade cortical;
++ c. Tem potenciais aplicações em diversos transtornos neuropsiquiátricos;
++ d. Foi primeiramente descrita por Pascual-Leone em 1996.
 
 **Anote e confira as suas respostas na [próxima aula!](mecanismo.html)**
 **Até lá!**
