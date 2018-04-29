@@ -46,7 +46,7 @@ b. Pode ser usada para aumentar ou reduzir a excitabilidade cortical;
 c. Tem potenciais aplicações em diversos transtornos neuropsiquiátricos;
 d. Foi primeiramente descrita por Pascual-Leone em 1996.
 
-**Anote e confira as suas respostas na próxima aula!**
+**Anote e confira as suas respostas na [próxima aula!](mecanismo.html)**
 **Até lá!**
 
 
