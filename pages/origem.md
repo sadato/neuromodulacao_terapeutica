@@ -1,4 +1,4 @@
-# Curso Básico de Estimulação Magnética Transcraniana
+
 # Aula 1
 
 ## Como surgiu a estimulação magnética transcraniana (EMT)?
