@@ -6,7 +6,7 @@ description: origem
 
 *Respostas às questões da Aula 1: 1a;2c;3d.*
 
-## Como a EMT foi utilizada inicialmente?
+
 
 Como vimos na primeira aula, o estimulador magnético foi desenvolvido com o objetivo de viabilizar o exame da velocidade de condução dos impulsos nervosos nas vias motoras centrais (i.e., o exame de **potenciais evocados motores**).
 
