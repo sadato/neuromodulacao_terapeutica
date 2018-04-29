@@ -44,5 +44,5 @@ c. falhou em demonstrar reorganização motora no cérebro humano;
 d. nenhuma das anteriores.
 
 
-**Anote e confira as suas respostas na próxima aula!**
+**Anote e confira as suas respostas na [próxima aula!](terapia.html)**
 **Até lá!**
