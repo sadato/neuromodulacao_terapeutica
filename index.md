@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
+title: Conceitos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
-description: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
+description: Conceitos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 ---
 
-
+### Conceitos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 
 - [Sobre este Mini-Curso](pages/sobre.html)
 - [Origem da EMT](pages/origem.html)
