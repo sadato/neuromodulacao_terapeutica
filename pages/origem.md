@@ -1,7 +1,7 @@
 
 
 
-## Como surgiu a estimulação magnética transcraniana (EMT)?
+### Como surgiu a estimulação magnética transcraniana (EMT)?
 
 ### O primeiro equipamento
 
