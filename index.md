@@ -7,6 +7,9 @@ description: Mini-Curso
 
 ### Conceitos Básicos de Estimulação Magnética Transcraniana (EMT)
 
+
+![](http://familiabrasil.org/imagens/TMS_Chair.png
+
 - [Sobre este Mini-Curso](pages/sobre.html)
 - [Origem da EMT](pages/origem.html)
 - [Primeiras Aplicações da EMT](pages/aplicacoes.html)
