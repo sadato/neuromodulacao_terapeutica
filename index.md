@@ -1,27 +1,16 @@
 ---
 layout: page
-title: Neuromodulação Terapêutica
+title: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
-description: Um Tutorial sobre Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
+description: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 ---
-
-Neuromodulação Terapêutica
-
-Novas técnicas não farmacológicas de terapia dos distúrbios neuropsiquiátricos surgiram recentemente.
-
-
-
-
-
-
-- [Visão Geral](pages/fundamentos.html)
-- [Plasticidade Cerebral](pages/plasticidade.html)
-- [A Estimulação Magnética Transcraniana](pages/tms.html)
-- [A Estimulação Transcraniana por Corrente Contínua](pages/tdcs.html)
-
-
-
----
+- [Sobre este Curso](pages/sobre.html)
+- [Origem da EMT](pages/origem.html)
+- [Primeiras Aplicações da EMT](pages/aplicacoes.html)
+- [Primeiras Aplicações Terapêuticas](pages/terapeutica.html)
+- [Mecanismo de Ação e Riscos da EMT](pages/mecanismo.html)
+- [Perspectivas Futuras da EMT](pages/futuro.html)
+- [Para Saber Mais](pages/resources.html)
 
 
 
