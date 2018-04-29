@@ -1,4 +1,8 @@
-# Aula 2
+---
+layout: page
+title: Aula 2-Como foi inicialmente utilizada a estimulação magnética transcraniana (EMT)?
+description: origem
+---
 
 *Respostas às questões da Aula 1: 1a;2c;3d.*
 
