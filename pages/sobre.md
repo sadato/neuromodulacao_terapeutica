@@ -4,6 +4,8 @@ title: Mini Curso-Estimulação Magnética Transcraniana (EMT)
 description: apresentação
 ---
 
+![TMS](http://familiabrasil.org/imagens/tms.jpg)
+
 A estimulação magnética transcraniana é atualmente uma alternativa não farmacológica para o tratamento da depressão, sendo aprovada pela FDA americana e também por órgãos reguladores de diversos países, inclusive do Brasil (Conselho Federal de Medicina).
 
 Este Mini-Curso tem por objetivo fornecer as informações científicas básicas a respeito do uso clínico da Estimulação Magnética Transcraniana.
