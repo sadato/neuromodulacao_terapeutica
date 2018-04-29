@@ -1,7 +1,11 @@
 
+---
+layout: page
+title: Como surgiu a estimulação magnética transcraniana (EMT)?
+tagline: 
+---
 
 
-### Como surgiu a estimulação magnética transcraniana (EMT)?
 
 ### O primeiro equipamento
 
