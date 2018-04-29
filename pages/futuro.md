@@ -1,6 +1,10 @@
-# Aula 5
+---
+layout: page
+title: Aula 5- Quais são as perspectivas futuras da EMTr e de outras técnicas de neuromodulação não-invasiva?
+description: futuro
+---
 
-## Quais são as perspectivas futuras da EMTr e de outras técnicas de neuromodulação não-invasiva?
+
 
 A aplicação de EMTr está sendo intensamente estudada em diversas doenças neuropsiquiátricas, e uma pesquisa no site PubMed, da National Library of Medicine, dos Estados Unidos, com os termos "Transcranial Magnetic Stimulation" confirma isso, encontrando atualmente 14.191 trabalhos publicados sobre esse tema!
 
