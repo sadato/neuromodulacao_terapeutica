@@ -49,7 +49,7 @@ b. Marca-passo cardíaco;
 c. Implantes metálicos intracranianos;
 d. "b" e "c" estão corretas.
 
-**Anote e confira as suas respostas na próxima aula!**
+**Anote e confira as suas respostas na [próxima aula!](futuro.html)**
 **Até lá!**
 
 
