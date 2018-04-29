@@ -61,5 +61,5 @@ b. Geração de um campo magnético variável no tempo;
 c. Indução de correntes elétricas na intimidade do parênquima cerebral;
 d. Pacientes/voluntários facilmente sugestionáveis.
 
-**Anote e confira as suas respostas na [próxima aula!](pages/aplicacoes.html)**
+**Anote e confira as suas respostas na [próxima aula!](aplicacoes.html)**
 **Até lá!**
