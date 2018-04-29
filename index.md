@@ -13,7 +13,7 @@ description: Mini-Curso
 - [Primeiras Aplicações Terapêuticas](pages/terapeutica.html)
 - [Mecanismo de Ação e Riscos da EMT](pages/mecanismo.html)
 - [Perspectivas Futuras da EMT](pages/futuro.html)
-- [Para Saber Mais](pages/resources.html)
+
 
 
 
