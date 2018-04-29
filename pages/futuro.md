@@ -4,6 +4,7 @@ title: Aula 5- Quais são as perspectivas futuras da EMTr e de outras técnicas 
 description: futuro
 ---
 
+*Respostas às questões da Aula 4: 1d;2c;3d.*
 
 
 A aplicação de EMTr está sendo intensamente estudada em diversas doenças neuropsiquiátricas, e uma pesquisa no site PubMed, da National Library of Medicine, dos Estados Unidos, com os termos "Transcranial Magnetic Stimulation" confirma isso, encontrando atualmente 14.191 trabalhos publicados sobre esse tema!
@@ -32,23 +33,26 @@ Devido à portabilidade da ETCC, alguns estudos-piloto já estão sendo feitos c
 ## Questões:
 
 1. Sobre o estado atual e perspectivas da EMTr podemos dizer:
-a. Os resultados até agora desanimadores têm levado a um desinteresse cada vez maior pela técnica;
-b. Há atualmente grande interesse dos pesquisadores nessa área;
-c. A única aplicação previsível da EMTr é no transtorno depressivo maior;
-d. "a" e "c" estão corretas.
++a. Os resultados até agora desanimadores têm levado a um desinteresse cada vez maior pela técnica;
++b. Há atualmente grande interesse dos pesquisadores nessa área;
++c. A única aplicação previsível da EMTr é no transtorno depressivo maior;
++d. "a" e "c" estão corretas.
 
 2. A ETCC:
-a. Tem a vantagem de ser portátil;
-b. É perigosa pois usa correntes elétricas intensas;
-c. Não é aplicada em sessões, como a EMTr;
-d. Pode ser feita com o mesmo equipamento da EMTr.
++a. Tem a vantagem de ser portátil;
++b. É perigosa pois usa correntes elétricas intensas;
++c. Não é aplicada em sessões, como a EMTr;
++d. Pode ser feita com o mesmo equipamento da EMTr.
 
 3. Um equipamento de EMT portátil que dispara um único pulso magnético está sendo testado em:
-a. Depressão;
-b. Transtorno Obsessivo-compulsivo;
-c. Esquizofrenia;
-d. Enxaqueca.
++a. Depressão;
++b. Transtorno Obsessivo-compulsivo;
++c. Esquizofrenia;
++d. Enxaqueca.
 
+
+
+*Respostas: 1b;2a;3d.*
 
 
 [^1]:http://www.eneura.com/getting-started-with-the-stms-mini/
