@@ -4,7 +4,10 @@ title: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): M
 tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
 description: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 ---
-- [Sobre este Curso](pages/sobre.html)
+
+# Mini-Curso:  Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT)
+
+- [Sobre este Mini-Curso](pages/sobre.html)
 - [Origem da EMT](pages/origem.html)
 - [Primeiras Aplicações da EMT](pages/aplicacoes.html)
 - [Primeiras Aplicações Terapêuticas](pages/terapeutica.html)
