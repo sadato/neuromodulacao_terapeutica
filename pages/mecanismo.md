@@ -32,22 +32,22 @@ Como não há contraindicação à EMTr durante a gravidez, ela pode ser uma alt
 # Questões:
 
 1. Na depressão:
-a. Os estudos de neuroimagem mostram hipoatividade do CPFDL esquerdo;
-b. Os estudos de neuroimagem mostram hiperatividade do CPFDL direito;
-c. A EMTr de baixa frequência é utilizada na depressão sobre o CPFDL esquerdo;
-d. "a" e "b" estão corretas.
++ a. Os estudos de neuroimagem mostram hipoatividade do CPFDL esquerdo;
++ b. Os estudos de neuroimagem mostram hiperatividade do CPFDL direito;
++ c. A EMTr de baixa frequência é utilizada na depressão sobre o CPFDL esquerdo;
++ d. "a" e "b" estão corretas.
 
 2. A principal complicação da EMTr é:
-a. Amnésia;
-b. Síncope;
-c. Crise convulsiva;
-d. Surdez.
++ a. Amnésia;
++ b. Síncope;
++ c. Crise convulsiva;
++ d. Surdez.
 
 3. São contraindicações à EMTr:
-a. Gravidez;
-b. Marca-passo cardíaco;
-c. Implantes metálicos intracranianos;
-d. "b" e "c" estão corretas.
++ a. Gravidez;
++ b. Marca-passo cardíaco;
++ c. Implantes metálicos intracranianos;
++ d. "b" e "c" estão corretas.
 
 **Anote e confira as suas respostas na [próxima aula!](futuro.html)**
 **Até lá!**
