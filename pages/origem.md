@@ -3,6 +3,7 @@
 layout: page
 title: Como surgiu a estimulação magnética transcraniana (EMT)?
 tagline: 
+
 ---
 
 
