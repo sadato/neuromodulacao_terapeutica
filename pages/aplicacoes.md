@@ -26,22 +26,22 @@ Os estudos em humanos com a EMT mostraram, por exemplo, que em amputados também
 # Questões:
 
 1. Sobre os primeiros usos da EMT, podemos dizer:
-a. Foi utilizada para tratamento de depressão e outras doenças;
-b. Foi utilizada apenas como método diagnóstico em neurologia;
-c. Foi utilizada na clínica neurológica para exames e também em pesquisas de neurofisiologia;
-d. nenhuma das anteriores.
++ a. Foi utilizada para tratamento de depressão e outras doenças;
++ b. Foi utilizada apenas como método diagnóstico em neurologia;
++ c. Foi utilizada na clínica neurológica para exames e também em pesquisas de neurofisiologia;
++ d. nenhuma das anteriores.
 
 2. O cérebro do adulto:
-a. tem pouca capacidade de reestruturação funcional (plasticidade);
-b. pode modificar a sua organização funcional em função de manipulações periféricas (amputação de membros, por exemplo);
-c. não tem a sua organização funcional modificada pelo treinamento motor;
-d. nenhuma das anteriores.
++ a. tem pouca capacidade de reestruturação funcional (plasticidade);
++ b. pode modificar a sua organização funcional em função de manipulações periféricas (amputação de membros, por exemplo);
++ c. não tem a sua organização funcional modificada pelo treinamento motor;
++ d. nenhuma das anteriores.
 
 3. Podemos dizer que a EMT:
-a. contribuiu para um melhor entendimento da neurofisiologia;
-b. desde os seus primórdios foi considerada uma modalidade terapêutica;
-c. falhou em demonstrar reorganização motora no cérebro humano;
-d. nenhuma das anteriores.
++ a. contribuiu para um melhor entendimento da neurofisiologia;
++ b. desde os seus primórdios foi considerada uma modalidade terapêutica;
++ c. falhou em demonstrar reorganização motora no cérebro humano;
++ d. nenhuma das anteriores.
 
 
 **Anote e confira as suas respostas na [próxima aula!](terapeutica.html)**
