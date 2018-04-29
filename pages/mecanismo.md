@@ -1,8 +1,12 @@
-
+---
+layout: page
+title: Aula 4-Como funciona e quais são os riscos da EMTr?
+description: mecanismo
+---
 
 *Respostas às questões da Aula 3: 1d;2d;3a.*
 
-## Como funciona e quais são os riscos da EMTr?
+
 
 Estudos de neuroimagem mostram redução do metabolismo no córtex pré-frontal dorsolateral (CPFDL) esquerdo,contrastando com atividade aumentada no CPFDL direito, em pacientes com depressão (Koenigs and Grafman 2009)[^1]. Estudos com EMTr sobre o córtex motor revelam que a EMTr de alta frequência aumenta a excitabilidade cortical e a EMTr de baixa frequência reduz essa excitabilidade.
 
