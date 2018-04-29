@@ -44,22 +44,22 @@ O estimulador magnético consiste, basicamente, de um banco de capacitores capaz
 # Questões:
 
 1. Podemos dizer que a EMT :
-a. É uma forma de estimulação elétrica indireta do córtex cerebral;
-b. Nada tem a ver com correntes elétricas;
-c. É dolorosa, porém menos do que a estimulação elétrica;
-d. Não é capaz de produzir ativação significativa das vias motoras.
++ a. É uma forma de estimulação elétrica indireta do córtex cerebral;
++ b. Nada tem a ver com correntes elétricas;
++ c. É dolorosa, porém menos do que a estimulação elétrica;
++ d. Não é capaz de produzir ativação significativa das vias motoras.
 
 2. A EMT:
-a. Foi introduzida por Barker e cols, como um novo tratamento para a esclerose múltipla;
-b. Foi desenvolvida com o objetivo de tratar muitas doenças neurológicas e psiquiátricas;
-c. Foi idealizada como uma forma indolor e não invasiva de avaliar possível desmielinização das vias motoras do S.N.C.;
-d. Foi desenvolvida para proporcionar efeito placebo na terapia de doenças neurológicas e psiquiátricas.
++ a. Foi introduzida por Barker e cols, como um novo tratamento para a esclerose múltipla;
++ b. Foi desenvolvida com o objetivo de tratar muitas doenças neurológicas e psiquiátricas;
++ c. Foi idealizada como uma forma indolor e não invasiva de avaliar possível desmielinização das vias motoras do S.N.C.;
++ d. Foi desenvolvida para proporcionar efeito placebo na terapia de doenças neurológicas e psiquiátricas.
 
 3. A EMT depende dos seguintes, exceto:
-a. Armazenamento de energia elétrica em um banco de capacitores;
-b. Geração de um campo magnético variável no tempo;
-c. Indução de correntes elétricas na intimidade do parênquima cerebral;
-d. Pacientes/voluntários facilmente sugestionáveis.
++ a. Armazenamento de energia elétrica em um banco de capacitores;
++ b. Geração de um campo magnético variável no tempo;
++ c. Indução de correntes elétricas na intimidade do parênquima cerebral;
++ d. Pacientes/voluntários facilmente sugestionáveis.
 
 **Anote e confira as suas respostas na [próxima aula!](aplicacoes.html)**
 **Até lá!**
