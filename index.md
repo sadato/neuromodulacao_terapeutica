@@ -5,7 +5,7 @@ tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana po
 description: Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 ---
 
-# Mini-Curso:  Conhecimentos Básicos de Estimulação Magnética Transcraniana (EMT)
+
 
 - [Sobre este Mini-Curso](pages/sobre.html)
 - [Origem da EMT](pages/origem.html)
