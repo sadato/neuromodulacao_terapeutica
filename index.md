@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mini-Curso
-tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
+tagline: EMT
 description: Mini-Curso
 ---
 
