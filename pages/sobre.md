@@ -15,6 +15,8 @@ Informações mais detalhadas podem ser encontradas, em português, em obras com
 
 + [Estimulação Magnética Transcraniana: Manual Prático](http://a.co/gc7Nkma)
 
-+ [Princípios e Práticas da Neuromodulação Nao Invasiva em Psiquiatria]( http://a.co/eEx8XOZ)
++ [Princípios e Práticas da Neuromodulação Não Invasiva em Psiquiatria]( http://a.co/eEx8XOZ)
+
+[Começar o Mini-Curso!](origem.html)
 
 
