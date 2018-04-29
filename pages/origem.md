@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aula 1: Como surgiu a estimulação magnética transcraniana (EMT)?
+title: Aula 1- Como surgiu a estimulação magnética transcraniana (EMT)?
 description: origem
 ---
 
