@@ -1,8 +1,11 @@
-# Aula 3
+---
+layout: page
+title: Aula 3-Como surgiram as aplicações terapêuticas da EMT?
+description: terapia
+---
 
 *Respostas às questões da Aula 2: 1c;2b;3a.*
 
-## Como surgiram as aplicações terapêuticas da EMT?
 
 ### Primeiros indícios de pós-efeitos duradouros da estimulação
 
