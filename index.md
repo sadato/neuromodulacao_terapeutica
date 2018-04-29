@@ -2,7 +2,7 @@
 layout: page
 title: Conceitos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
 tagline: Estimulação Magnética Transcraniana e Estimulação Transcraniana por Corrente Contínua
-description: Conceitos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
+description: 
 ---
 
 ### Conceitos Básicos de Estimulação Magnética Transcraniana (EMT): Mini-Curso
