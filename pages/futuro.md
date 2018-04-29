@@ -33,10 +33,10 @@ Devido à portabilidade da ETCC, alguns estudos-piloto já estão sendo feitos c
 ## Questões:
 
 1. Sobre o estado atual e perspectivas da EMTr podemos dizer:
-+a. Os resultados até agora desanimadores têm levado a um desinteresse cada vez maior pela técnica;
-+b. Há atualmente grande interesse dos pesquisadores nessa área;
-+c. A única aplicação previsível da EMTr é no transtorno depressivo maior;
-+d. "a" e "c" estão corretas.
++ a. Os resultados até agora desanimadores têm levado a um desinteresse cada vez maior pela técnica;
++ b. Há atualmente grande interesse dos pesquisadores nessa área;
++ c. A única aplicação previsível da EMTr é no transtorno depressivo maior;
++ d. "a" e "c" estão corretas.
 
 2. A ETCC:
 +a. Tem a vantagem de ser portátil;
