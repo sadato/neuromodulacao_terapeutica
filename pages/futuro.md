@@ -36,13 +36,13 @@ Devido à portabilidade da ETCC, alguns estudos-piloto já estão sendo feitos c
 + a. Os resultados até agora desanimadores têm levado a um desinteresse cada vez maior pela técnica;
 + b. Há atualmente grande interesse dos pesquisadores nessa área;
 + c. A única aplicação previsível da EMTr é no transtorno depressivo maior;
-+ d. "a" e "c" estão corretas.
++ d. "a" e "c" estão corretas.<br><br>
 
 2. A ETCC:
 + a. Tem a vantagem de ser portátil;
 + b. É perigosa pois usa correntes elétricas intensas;
 + c. Não é aplicada em sessões, como a EMTr;
-+ d. Pode ser feita com o mesmo equipamento da EMTr.
++ d. Pode ser feita com o mesmo equipamento da EMTr.<br><br>
 
 3. Um equipamento de EMT portátil que dispara um único pulso magnético está sendo testado em:
 + a. Depressão;
