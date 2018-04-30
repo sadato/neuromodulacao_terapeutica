@@ -29,13 +29,13 @@ Os estudos em humanos com a EMT mostraram, por exemplo, que em amputados também
 + a. Foi utilizada para tratamento de depressão e outras doenças;
 + b. Foi utilizada apenas como método diagnóstico em neurologia;
 + c. Foi utilizada na clínica neurológica para exames e também em pesquisas de neurofisiologia;
-+ d. nenhuma das anteriores.
++ d. nenhuma das anteriores.<br><br>
 
 2. O cérebro do adulto:
 + a. tem pouca capacidade de reestruturação funcional (plasticidade);
 + b. pode modificar a sua organização funcional em função de manipulações periféricas (amputação de membros, por exemplo);
 + c. não tem a sua organização funcional modificada pelo treinamento motor;
-+ d. nenhuma das anteriores.
++ d. nenhuma das anteriores.<br><br>
 
 3. Podemos dizer que a EMT:
 + a. contribuiu para um melhor entendimento da neurofisiologia;
