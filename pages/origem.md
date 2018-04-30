@@ -46,7 +46,7 @@ O estimulador magnético consiste, basicamente, de um banco de capacitores capaz
 + a. É uma forma de estimulação elétrica indireta do córtex cerebral;
 + b. Nada tem a ver com correntes elétricas;
 + c. É dolorosa, porém menos do que a estimulação elétrica;
-+ d. Não é capaz de produzir ativação significativa das vias motoras.    
++ d. Não é capaz de produzir ativação significativa das vias motoras.<br><br>   
 
 2. A EMT:
 + a. Foi introduzida por Barker e cols, como um novo tratamento para a esclerose múltipla;
