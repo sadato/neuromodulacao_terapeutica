@@ -62,7 +62,6 @@ A vasta bibliografia já acumulada levou à aprovação da EMTr para o tratament
 
 [^5]:Rosa, M. A., Gattaz,W.F.,  Pascual-Leone,A.,   Fregni,F., Rosa,M.O., Rumi,D.O., Myczkowski, M. et al. 2006. Comparison of repetitive transcranial magnetic stimulation and electroconvulsive therapy in unipolar non-psychotic refractory depression: a randomized, single-blind study. Int. J. Neuropsychopharmacol. 9 (Dec): 667-676.
 
-[^4]:Iannone, A., Cruz, A.P., Brasil-Neto,J.P and Boechat-Barros, R. 2016. Transcranial magnetic stimulation and transcranial direct current stimulation appear to be safe neuromodulatory techniques useful in the treatment of anxiety disorders and other neuropsychiatric disorders. Arq Neuropsiquiatr 74 (Oct): 829-
--835.
+[^4]:Iannone, A., Cruz, A.P., Brasil-Neto,J.P and Boechat-Barros, R. 2016. Transcranial magnetic stimulation and transcranial direct current stimulation appear to be safe neuromodulatory techniques useful in the treatment of anxiety disorders and other neuropsychiatric disorders. Arq Neuropsiquiatr 74 (Oct): 829-835.
 
 [^7]:Perera, T., George,M.S., Grammer,G., Janicak,P.G., Pascual-Leone, A. and Wirecki, T.S. 2016. The Clinical TMS Society Consensus Review and Treatment Recommendations for TMS Therapy for Major Depressive Disorder. Brain Stimul 9: 336-346.
