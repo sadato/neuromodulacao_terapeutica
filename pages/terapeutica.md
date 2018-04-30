@@ -32,13 +32,13 @@ A vasta bibliografia já acumulada levou à aprovação da EMTr para o tratament
 + a. Aplicada em pulsos únicos ou repetidos não apresenta pós-efeitos sobre a excitabilidade cortical;
 + b. Pode excitar ou inibir áreas do córtex cerebral;
 + c. Os efeitos podem perdurar após o término da sessão de estimulação;
-+ d. "b" e "c" estão corretas.
++ d. "b" e "c" estão corretas.<br><br>
 
 2. A EMTr como terapia:
 + a. Foi tentada primeiramente na depressão fármaco-resistente;
 + b. Foi aprovada pela FDA americana para tratamento da depressão;
 + c. Ainda não tem aprovação do Conselho Federal de Medicina;
-+ d. "a" e "b" estão corretas.
++ d. "a" e "b" estão corretas.<br><br>
 
 3. Sobre a EMTr terapêutica, todas estão corretas, exceto:
 + a. Ainda não tem nenhuma comprovação científica;
