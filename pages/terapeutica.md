@@ -71,4 +71,4 @@ excitability with transcranial magnetic stimulation. J Clin Neurophysiol 15 (Jul
 [^3]:Iannone, A., Cruz, A.P., Brasil-Neto,J.P and Boechat-Barros, R. 2016. Transcranial magnetic stimulation and transcranial direct current stimulation appear to be safe neuromodulatory techniques useful in the treatment of anxiety disorders and other neuropsychiatric disorders. Arq Neuropsiquiatr 74 (Oct): 829-
 -835.
 
-[^90]:Perera, T., George,M.S., Grammer,G., Janicak,P.G., Pascual-Leone, A. and Wirecki, T.S. 2016. The Clinical TMS Society Consensus Review and Treatment Recommendations for TMS Therapy for Major Depressive Disorder. Brain Stimul 9: 336-346.
+[^9]:Perera, T., George,M.S., Grammer,G., Janicak,P.G., Pascual-Leone, A. and Wirecki, T.S. 2016. The Clinical TMS Society Consensus Review and Treatment Recommendations for TMS Therapy for Major Depressive Disorder. Brain Stimul 9: 336-346.
