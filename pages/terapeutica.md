@@ -22,7 +22,7 @@ Desde então, e a partir do estudo das mudanças da excitabilidade cortical que 
 
 Após o trabalho pioneiro de Pascual-Leone e colaboradores (Pascual-Leone et al. 1996), vários outros pesquisadores confirmaram a eficácia da estimulação de alta frequência sobre o córtex pré-frontal dorsolateral (CPFDL) esquerdo (Rosa et al. 2006) [^4];, bem como da EMTr de baixa frequência sobre o CPFDL direito (Boechat-Barros and Brasil-Neto 2004) [^5].
 
-Pelo menos três grandes estudos multicêntricos, randomizados, duplo-cegos e controlados com placebo foram publicados até hoje sobre os efeitos da EMTr na depressão, incluindo um total de 703 pacientes adultos com transtorno depressivo maior (TDM) que não haviam respondido de 1 a 4 tentativas adequadas de tratamento medicamentoso (Perera et al. 2016)[^90].
+Pelo menos três grandes estudos multicêntricos, randomizados, duplo-cegos e controlados com placebo foram publicados até hoje sobre os efeitos da EMTr na depressão, incluindo um total de 703 pacientes adultos com transtorno depressivo maior (TDM) que não haviam respondido de 1 a 4 tentativas adequadas de tratamento medicamentoso (Perera et al. 2016)[^9].
 
 A vasta bibliografia já acumulada levou à aprovação da EMTr para o tratamento da depressão resistente à medicação, tanto pela Food and Drug Administration (Estados Unidos da América) quanto pelo Conselho Federal de Medicina em nosso país.
 
