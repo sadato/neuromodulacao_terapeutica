@@ -14,8 +14,7 @@ O primeiro estimulador magnético foi construído na Inglaterra, em 1985. O prop
 ![O primeiro estimulador magnético transcraniano.](http://familiabrasil.org/imagens/jalinous_freeston_barker.jpg)
 > O primeiro estimulador magnético, 1985
 
-[^1]:Barker, A. T., R. Jalinous, and I. L. Freeston. 1985. Non-invasive
-magnetic stimulation of human motor cortex. Lancet 1(May):1106-1107
+[^1]:Barker, A. T., R. Jalinous, and I. L. Freeston. 1985. Non-invasive magnetic stimulation of human motor cortex. Lancet 1(May):1106-1107
 
 ### Para que alguém iria querer estimular o córtex motor humano?
 
@@ -47,13 +46,13 @@ O estimulador magnético consiste, basicamente, de um banco de capacitores capaz
 + a. É uma forma de estimulação elétrica indireta do córtex cerebral;
 + b. Nada tem a ver com correntes elétricas;
 + c. É dolorosa, porém menos do que a estimulação elétrica;
-+ d. Não é capaz de produzir ativação significativa das vias motoras.
++ d. Não é capaz de produzir ativação significativa das vias motoras.    
 
 2. A EMT:
 + a. Foi introduzida por Barker e cols, como um novo tratamento para a esclerose múltipla;
 + b. Foi desenvolvida com o objetivo de tratar muitas doenças neurológicas e psiquiátricas;
 + c. Foi idealizada como uma forma indolor e não invasiva de avaliar possível desmielinização das vias motoras do S.N.C.;
-+ d. Foi desenvolvida para proporcionar efeito placebo na terapia de doenças neurológicas e psiquiátricas.
++ d. Foi desenvolvida para proporcionar efeito placebo na terapia de doenças neurológicas e psiquiátricas.    
 
 3. A EMT depende dos seguintes, exceto:
 + a. Armazenamento de energia elétrica em um banco de capacitores;
