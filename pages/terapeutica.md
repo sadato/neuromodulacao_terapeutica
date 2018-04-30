@@ -52,19 +52,13 @@ A vasta bibliografia já acumulada levou à aprovação da EMTr para o tratament
 
 ### Referências:
 
-[^5]:Boechat-Barros, R., and J. P. Brasil-Neto. 2004. Transcranial
-Magnetic Stimulation in depression: results of bi-weekly treatment.
-Rev Bras Psiquiatr 26 (Jun): 100-102.
+[^5]:Boechat-Barros, R., and J. P. Brasil-Neto. 2004. Transcranial Magnetic Stimulation in depression: results of bi-weekly treatment. Rev Bras Psiquiatr 26 (Jun): 100-102.
 
 [^1]:Pascual-Leone, A., Valls-Solé, E.M. Wassermann, and Hallett, M. 1994. Responses to rapid-rate transcranial magnetic stimulation of the human motor cortex.Brain} 117: 847-858.
 
-[^2]:Pascual-Leone, A.,Rubio,B., Pallardo, F., and Catala, M.D. 1996.
-Rapid-rate transcranial magnetic stimulation of left dorsolateral
-prefrontal cortex in drug-resistant depression. Lancet 348 (Jul): 233-237.
+[^2]:Pascual-Leone, A.,Rubio,B., Pallardo, F., and Catala, M.D. 1996. Rapid-rate transcranial magnetic stimulation of left dorsolateral prefrontal cortex in drug-resistant depression. Lancet 348 (Jul): 233-237.
 
-[^10]:Pascual-Leone, A.,Tormos,J.M.,  Keenan,J., Tarazona,F., Canete,C. and
-Catala, M.D. 1998. Study and modulation of human cortical
-excitability with transcranial magnetic stimulation. J Clin Neurophysiol 15 (Jul): 333-343.
+[^10]:Pascual-Leone, A.,Tormos,J.M.,  Keenan,J., Tarazona,F., Canete,C. and Catala, M.D. 1998. Study and modulation of human cortical excitability with transcranial magnetic stimulation. J Clin Neurophysiol 15 (Jul): 333-343.
 
 [^4]:Rosa, M. A., Gattaz,W.F.,  Pascual-Leone,A.,   Fregni,F., Rosa,M.O., Rumi,D.O., Myczkowski, M. et al. 2006. Comparison of repetitive transcranial magnetic stimulation and electroconvulsive therapy in unipolar non-psychotic refractory depression: a randomized, single-blind study. Int. J. Neuropsychopharmacol. 9 (Dec): 667-676.
 
