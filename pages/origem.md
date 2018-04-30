@@ -52,7 +52,7 @@ O estimulador magnético consiste, basicamente, de um banco de capacitores capaz
 + a. Foi introduzida por Barker e cols, como um novo tratamento para a esclerose múltipla;
 + b. Foi desenvolvida com o objetivo de tratar muitas doenças neurológicas e psiquiátricas;
 + c. Foi idealizada como uma forma indolor e não invasiva de avaliar possível desmielinização das vias motoras do S.N.C.;
-+ d. Foi desenvolvida para proporcionar efeito placebo na terapia de doenças neurológicas e psiquiátricas.    
++ d. Foi desenvolvida para proporcionar efeito placebo na terapia de doenças neurológicas e psiquiátricas.<br><br>    
 
 3. A EMT depende dos seguintes, exceto:
 + a. Armazenamento de energia elétrica em um banco de capacitores;
