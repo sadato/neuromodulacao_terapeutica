@@ -21,10 +21,10 @@ Alguns fabricantes já estão trabalhando para criar aparelhos menores, para adm
 
 ## Uma nova alternativa de neuromodulação
 
-Recentemente, uma nova técnica de neuromodulação, que utiliza uma fraca corrente elétrica contínua (0,5 a 2,0 miliampères) aplicada sobre o couro cabeludo está sendo também bastante estudada.
+Recentemente, uma nova técnica de neuromodulação, que utiliza uma fraca corrente elétrica contínua (0,5 a 2,0 miliampères) aplicada sobre o couro cabeludo está sendo também bastante estudada. É a estimulação transcraniana por corrente contínua (ETCC).
 
 ![tDCS.](http://familiabrasil.org/imagens/tdcs.jpg)
->Assim é aplicada a tDCS.
+>Assim é aplicada a ETCC.
 
 Já foi comprovado que o córtex abaixo do ânodo (eletrodo positivo) é estimulado em sessões que geralmente duram de 20 a 30 minutos. Do mesmo modo, o cátodo (eletrodo negativo) produz inibição do córtex subjacente nessas mesmas sessões. Assim, podemos dizer que sessões de estimulação transcraniana por corrente contínua anódica (ETCC) têm efeitos teoricamente análogos aos das sessões de EMTr de alta frequência, e vice-versa para a ETCC catódica.
 
