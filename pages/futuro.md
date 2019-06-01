@@ -62,6 +62,6 @@ Devido à portabilidade da ETCC, alguns estudos-piloto já estão sendo feitos c
 
 Agora você já tem as noções básicas sobre a Estimulação Magnética Transcraniana. Poderá discutir o assunto com colegas e pacientes. Entretanto, é possível que queira saber ainda mais, e para isso recomendamos o livro:
 
-[Estimulação Magnética Transcraniana: Manual Prático](https://ler.amazon.com.br/kp/embed?asin=B076R2FB46&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ZgjgAbB5N9YEF)  
+[Estimulação Magnética Transcraniana: Manual Prático](https://ler.amazon.com.br/kp/embed?asin=B07MMGNXS9&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_jCU8CbE8XR3RW)  
 
 
